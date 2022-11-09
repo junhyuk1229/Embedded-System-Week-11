@@ -10,7 +10,7 @@
 ## Code Desc
 Lab2_Exercise1.c, Lab2_Exercise2.c are codes in documents<br/>
 Lab2_Task1.c, Lab2_Task2.c, Lab2_Task2_Adv.c are codes used for homework<br/>
-st_basic.c and st_basic.h are used to store all function for all c codes on top<br/>
+st_basic.c and st_basic.h stores all functions used for all c files above<br/>
 
 ## Photo Desc
 Photos taken for description of Lab2_Task1.c<br/>
