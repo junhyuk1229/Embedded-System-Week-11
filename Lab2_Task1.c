@@ -2,7 +2,7 @@
 Name: Lab2_Task1.c
 Desc: Takes input from joystick and returns a string to the device connected to USART2.
 	  Each output just describes the input as text.
-	  The 'Delay' functions are used prevent multiple inputs from holding the key.(Lab2_Task1_Pic1 shows the result if no delay function is present)
+	  The 'Delay' functions are used prevent multiple inputs from holding the key.(Lab2_Task1_Error.png shows the result if no delay function is present)
 */
 
 //Load header
