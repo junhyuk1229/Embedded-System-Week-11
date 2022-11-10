@@ -1,5 +1,5 @@
 # Embedded-System-Week-11
-## Group 1 members:
+## Group A members:
 ```
 12161427 김준혁
 12161503 조성학
